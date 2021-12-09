@@ -1,7 +1,7 @@
 version: "3.3"
 services:
   web:
-    container_name: shkulipa_server_v1
+    container_name: zemcov_server
     build: .
     ports:
       - "5000:5000"
